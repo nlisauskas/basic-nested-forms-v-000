@@ -21,7 +21,7 @@ class PeopleController < ApplicationController
       :street_address_1,
       :street_address_2,
       :city,
-      :state, 
+      :state,
       :zipcode,
       :address_type
       ])
